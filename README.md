@@ -1,6 +1,6 @@
 This repo contains automation to build a standalone environment for the data engineering training program (TWDU).
 
-# Setting up a new Account
+# Setting up a new Account fro training
 
 ## 1) Requisition a new AWS environment
 ## 2) Fork this repo
